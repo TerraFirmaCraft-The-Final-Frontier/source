@@ -1,0 +1,8 @@
+{
+    "url": "https://www.curseforge.com/minecraft/mc-mods/crafttweaker/download/3965470/file",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/modtweaker/download/3840577/file",
+	"folder": "mods",
+    "options": {
+        "alwaysInstall": true
+    }
+}
